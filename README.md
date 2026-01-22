@@ -1,9 +1,18 @@
 # Drivers Ed Automator
 
-A script to automate **Too Cool Traffic School's Drivers Ed** course. Features Discord bot integration and robust error handling. Completes the course in **6 days** when used correctly.
+Automation script for **Too Cool Traffic School** that completes the course with minimal user interaction.
+
+## Features
+- Automatic lesson and course progression  
+- Discord bot for remote control  
+- Remote answering of required course questions  
+- Can run unattended
 
 ## Usage
+1. Run the script  
+2. Follow on-screen setup instructions  
+3. Monitor or respond via Discord when prompted  
 
-1. Run the script
-
-2. Follow the on-screen instructions.
+## Disclaimer
+This project was created for educational purposes and was not used by the author.
+Use at your own risk.
